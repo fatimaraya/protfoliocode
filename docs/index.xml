@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Ingénieurie informatique on My New Hugo Site Fatima</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Ingénieurie informatique on My New Hugo Site Fatima</description>
+    <title>My New Hugo Site Fatima</title>
+    <link>https://fatimaraya.github.io/fatimabourhim.github.io/</link>
+    <description>Recent content on My New Hugo Site Fatima</description>
     <generator>Hugo -- 0.146.4</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fatimaraya.github.io/fatimabourhim.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Détection d&#39;attaques avec SVM</title>
-      <link>http://localhost:1313/projects/projet1/</link>
+      <link>https://fatimaraya.github.io/fatimabourhim.github.io/projects/projet1/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projet1/</guid>
+      <guid>https://fatimaraya.github.io/fatimabourhim.github.io/projects/projet1/</guid>
       <description>&lt;h2 id=&#34;-contexte&#34;&gt;🔍 Contexte&lt;/h2&gt;
 &lt;p&gt;Implémentation d&amp;rsquo;un classifieur SVM pour identifier des cyberattaques à partir du dataset CIC-IDS2017.&lt;/p&gt;
 &lt;h2 id=&#34;-réalisation&#34;&gt;🛠️ Réalisation&lt;/h2&gt;
@@ -21,13 +21,13 @@
 &lt;li&gt;Comparaison des noyaux (linéaire, polynomial, RBF)&lt;/li&gt;
 &lt;li&gt;Évaluation via matrice de confusion et métriques F1-score/Accuracy&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;📌 &lt;a href=&#34;http://localhost:1313/reports/rapport-svm.pdf&#34;&gt;Télécharger le rapport complet&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;📌 &lt;a href=&#34;https://fatimaraya.github.io/fatimabourhim.github.io/reports/rapport-svm.pdf&#34;&gt;Télécharger le rapport complet&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Surveillance agricole distribuée</title>
-      <link>http://localhost:1313/projects/projet2/</link>
+      <link>https://fatimaraya.github.io/fatimabourhim.github.io/projects/projet2/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/projet2/</guid>
+      <guid>https://fatimaraya.github.io/fatimabourhim.github.io/projects/projet2/</guid>
       <description>&lt;h2 id=&#34;-contexte&#34;&gt;🌱 Contexte&lt;/h2&gt;
 &lt;p&gt;Développement d&amp;rsquo;un système distribué pour surveiller en temps réel les paramètres clés (température, humidité, pH) dans des serres agricoles, avec génération d&amp;rsquo;alertes automatisées.&lt;/p&gt;
 &lt;h2 id=&#34;-réalisations-techniques&#34;&gt;🛠️ Réalisations Techniques&lt;/h2&gt;

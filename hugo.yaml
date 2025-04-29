@@ -1,9 +1,9 @@
-baseURL: "https://fatimaraya.github.io/"
+baseURL: "https://fatimaraya.github.io/fatimabourhim.github.io/"
 publishDir: "docs"
 languageCode: "en-us"
 title: "My New Hugo Site Fatima"
-
-theme: "PaperMod"
+layout: "home"
+theme: PaperMod
 
 menu:
   main:
@@ -11,7 +11,7 @@ menu:
       url: "/"
       weight: 1
     - name: "À propos"
-      url: "/about"
+      url: "about/"
       weight: 2
     - name: "Education"
       url: "/educ"
@@ -35,7 +35,7 @@ params:
     enabled: true
     title: "Bonjour, je suis Fatima"
     subtitle: "Étudiante en informatique | Passionnée par l'IA et le Web"
-    imageUrl: "images/foto.jpg"  
+    imageUrl: "foto.jpg"  
     imageTitle: "Fatima"
     imageWidth: 120
     imageHeight: 120
@@ -43,7 +43,7 @@ params:
       - name: Projets
         url: "/projects"
       - name: À propos
-        url: "/about"
+        url: "fatimabourhim.github.io/about/"
 
   # Texte affiché sur la page d'accueil (si profileMode désactivé)
   homeInfoParams:
