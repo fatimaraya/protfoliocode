@@ -1,0 +1,62 @@
+baseURL: "https://fatimaraya.github.io/"
+publishDir: "docs"
+languageCode: "en-us"
+title: "My New Hugo Site Fatima"
+
+theme: "PaperMod"
+
+menu:
+  main:
+    - name: "Accueil"
+      url: "/"
+      weight: 1
+    - name: "À propos"
+      url: "/about"
+      weight: 2
+    - name: "Education"
+      url: "/educ"
+      weight: 3
+    - name: "Projets"
+      url: "/projects"
+      weight: 4
+
+params:
+  defaultTheme: "dark"
+  projectsPerPage: 6
+
+  switcher:
+    theme: true
+
+  cover:
+    hidden: true  # Désactiver la bannière par défaut
+
+  # Affichage de la page d'accueil en mode profil
+  profileMode:
+    enabled: true
+    title: "Bonjour, je suis Fatima"
+    subtitle: "Étudiante en informatique | Passionnée par l'IA et le Web"
+    imageUrl: "images/foto.jpg"  
+    imageTitle: "Fatima"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: Projets
+        url: "/projects"
+      - name: À propos
+        url: "/about"
+
+  # Texte affiché sur la page d'accueil (si profileMode désactivé)
+  homeInfoParams:
+    Title: "Bonjour, je suis **Fatima**"
+    Content: "Bienvenue sur mon portfolio professionnel"
+
+  # Réseaux sociaux
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/votreuser"
+      title: "Mon GitHub"
+    - name: "linkedin"
+      url: "https://linkedin.com/in/votreprofil"
+    - name: "file-pdf"
+      url: "/cv/cv-elkha.pdf"
+      title: "Mon CV"
